@@ -1,20 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>2020/09/14 12:55:47.000.831,E:\CELIO\DelphiApplication\CryptApp.dproj=C:\Users\Marcelo Daniel\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/09/14 12:55:47.000.831,C:\Users\Marcelo Daniel\Documents\Embarcadero\Studio\Projects\Project1.dproj=E:\CELIO\DelphiApplication\CryptApp.dproj</Transaction>
     <Transaction>2020/09/14 13:25:21.000.736,=C:\Users\Marcelo Daniel\Documents\Embarcadero\Studio\20.0\Imports\CryptorAES_TLB.pas</Transaction>
     <Transaction>2020/09/14 13:38:59.000.374,C:\Users\Marcelo Daniel\Documents\Embarcadero\Studio\20.0\Imports\CryptorAES_TLB.pas=</Transaction>
     <Transaction>2020/09/14 14:19:12.000.009,=E:\CELIO\DelphiApplication\Unit2.pas</Transaction>
     <Transaction>2020/09/14 14:40:18.000.858,=C:\Users\Marcelo Daniel\Documents\Embarcadero\Studio\20.0\Imports\CryptorAES_TLB.pas</Transaction>
     <Transaction>2020/09/14 14:53:58.000.119,C:\Users\Marcelo Daniel\Documents\Embarcadero\Studio\20.0\Imports\CryptorAES_TLB.pas=</Transaction>
     <Transaction>2020/09/14 15:33:02.000.359,=C:\Users\Marcelo Daniel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2020/09/14 15:36:53.000.215,E:\CELIO\DelphiApplication\UMain.dfm=C:\Users\Marcelo Daniel\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2020/09/14 15:36:53.000.215,E:\CELIO\DelphiApplication\UMain.pas=C:\Users\Marcelo Daniel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/09/14 15:36:53.000.215,C:\Users\Marcelo Daniel\Documents\Embarcadero\Studio\Projects\Unit1.dfm=E:\CELIO\DelphiApplication\UMain.dfm</Transaction>
+    <Transaction>2020/09/14 15:36:53.000.215,C:\Users\Marcelo Daniel\Documents\Embarcadero\Studio\Projects\Unit1.pas=E:\CELIO\DelphiApplication\UMain.pas</Transaction>
     <Transaction>2020/09/14 18:43:59.000.915,=C:\Users\Marcelo Daniel\Documents\Embarcadero\Studio\20.0\Imports\CryptorAES_TLB.pas</Transaction>
     <Transaction>2020/09/14 18:46:09.000.445,C:\Users\Marcelo Daniel\Documents\Embarcadero\Studio\20.0\Imports\CryptorAES_TLB.pas=</Transaction>
     <Transaction>2020/09/14 18:49:09.000.477,=C:\Users\Marcelo Daniel\Documents\Embarcadero\Studio\20.0\Imports\CryptorAES_TLB.pas</Transaction>
     <Transaction>2020/09/14 18:50:49.000.788,C:\Users\Marcelo Daniel\Documents\Embarcadero\Studio\20.0\Imports\CryptorAES_TLB.pas=</Transaction>
-    <Transaction>2020/09/14 22:05:38.391,=E:\CELIO\DelphiApplication\Unit1.pas</Transaction>
-    <Transaction>2020/09/14 22:06:04.728,E:\CELIO\DelphiApplication\TntLXCryptoUtils.pas=E:\CELIO\DelphiApplication\Unit1.pas</Transaction>
+    <Transaction>2020/09/14 22:05:38.000.391,=E:\CELIO\DelphiApplication\Unit1.pas</Transaction>
+    <Transaction>2020/09/14 22:06:04.000.728,E:\CELIO\DelphiApplication\Unit1.pas=E:\CELIO\DelphiApplication\TntLXCryptoUtils.pas</Transaction>
   </Transactions>
 </BorlandProject>
